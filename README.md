@@ -4,11 +4,10 @@ Computer Science &amp; Math @ 🇨🇦 University of Waterloo | BBA, Economics @
  
 ## 💬 Get in Touch
  
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunishth-bhogal)
 [![Email](https://img.shields.io/badge/-SUNISHTHNBHOGAL%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunishthnbhogal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-HANDLE)
-[![Resume](https://img.shields.io/badge/-RESUME-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sunishthbhogal.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunishth-bhogal)
  
 ## 🛠️ Tech Stack
  
