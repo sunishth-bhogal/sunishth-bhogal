@@ -56,10 +56,7 @@ Computer Science &amp; Math @ 🇨🇦 University of Waterloo | BBA, Economics @
  
 ## 🚀 Currently Building
  
-- **[UW Study Spots](https://your-project-link.com)** — Full-stack Next.js/TypeScript platform tracking real-time occupancy across 35+ campus locations, 1,000+ users
-- **[Sift](https://your-project-link.com)** — Chrome extension turning passive scrolling into a research workflow with LLM-assisted content analysis
-- **[NHL Game Predictor](https://your-project-link.com)** — End-to-end ML pipeline on 1,400+ NHL box scores for game outcome prediction
-**Focus areas:** full-stack development · AI/LLM-powered products · backend & data pipelines · applied ML
+- **[UW Study Spots](https://uwstudyspots.vercel.app/)** — Full-stack Next.js/TypeScript platform tracking real-time occupancy across 35+ campus locations, 1,000+ users
  
 ---
  
